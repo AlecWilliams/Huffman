@@ -70,7 +70,8 @@ public class Huffman {
 		//System.out.println(map.keySet());
 		
 		
-		
+	//Test to see if i can exit and save from vim....
+	//
 		
 		Node newNode;
 		for(Character c: map.keySet()){
